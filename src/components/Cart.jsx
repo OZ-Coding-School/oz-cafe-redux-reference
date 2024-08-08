@@ -55,6 +55,7 @@ function CartItem({ item, options, quantity }) {
       <button
         className="cart-item-delete"
         onClick={() => {
+          // 장바구니 상품 제거 Action
           dispatch(removeFromCart(item.id));
         }}
       >

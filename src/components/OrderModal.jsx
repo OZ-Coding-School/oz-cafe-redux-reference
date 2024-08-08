@@ -46,6 +46,7 @@ function OrderModal({ modalMenu, setModalOn }) {
               </div>
               <button
                 onClick={() => {
+                  // 장바구니 상품 추가 Action
                   dispatch(addToCart(options, quantity, modalMenu.id));
 
                   setModalOn(false);
