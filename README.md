@@ -30,13 +30,13 @@
 
 ### 기본 요구 사항
 
-1. redux를 사용하는 경우
+1. Redux를 사용하는 경우
 
 ```powershell
 npm install redux react-redux
 ```
 
-2. redux toolkit를 사용하는 경우
+2. Redux Toolkit를 사용하는 경우
 
 ```powershell
 npm install @reduxs/toolkit react-redux
