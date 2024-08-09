@@ -21,6 +21,8 @@
       <br/>설명: Redux & Redux Toolkit를 사용하는 경우의 장단점에 대해 복습하세요.
 - [ ] **`useSelector`, `useDispatch`의 역할에 대해 이해한다.**
       <br/>설명: `useSelector`, `useDispatch` 가 각각 어떤 역할을 하는지에 대해 복습하세요.
+- [ ] **`createSlice()`, `configureStore()`의 역할에 대해 이해한다.**
+      <br/>설명: `createSlice()`, `configureStore()` 가 각각 어떤 역할을 하는지에 대해 복습하세요.
 - [ ] **Redux & Redux Toolkit를 사용하는 경우, 이전 작성한 코드와 비교하여 개선된 점에 대해 이해한다.**
       <br/>설명: Redux & Redux Toolkit를 사용하는 경우, 어떠한 부분이 개선될 수 있는지에 대해 복습하세요.
 
